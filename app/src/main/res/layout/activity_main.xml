@@ -9,7 +9,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="List of song"
+        android:text="List of songs"
         android:gravity="center"
         android:background="#3a9b96"
         android:textColor="@android:color/white"
